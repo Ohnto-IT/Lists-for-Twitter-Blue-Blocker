@@ -25,5 +25,7 @@ It's available for [Google Chrome](https://chrome.google.com/webstore/detail/blu
 | -------- | ------- | ------- |
 | <img src="img/Step_1.png"/>  | <img src="img/Step_2.png"/>   |  <img src="img/Step_3.png"/> |
 
+### Although many of these accounts no longer exist or aren't subscribed to Twitter Blue anymore, these lists will certainly help filter out far-right "individuals".
+
 ## License
 The license contained in this repository applies only to the files inside the [/code](https://github.com/Ohnto-IT/Lists-for-Twitter-Blue-Blocker/tree/main/Code) folder.
