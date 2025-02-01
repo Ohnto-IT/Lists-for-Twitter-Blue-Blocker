@@ -1,5 +1,6 @@
 # Lists for Twitter Blue Blocker
-The JSON lists in this repository were created for the [Blue Blocker Extension](https://github.com/kheina-com/Blue-Blocker), utilizing the pre-existing CSV lists from travisbrown's [blue](https://github.com/travisbrown/blue) and esqueer's [twitter_blue_blocklist](https://github.com/esqueer/twitter_blue_blocklist). There are other 5 lists that were included from ...
+The JSON lists in this repository were created for the [Blue Blocker Extension](https://github.com/kheina-com/Blue-Blocker), utilizing the pre-existing CSV lists from travisbrown's [blue](https://github.com/travisbrown/blue) and esqueer's [twitter_blue_blocklist](https://github.com/esqueer/twitter_blue_blocklist). 
+### **There are other 5 JSON lists that can be found in bkh55's [BlueBlockerJsonReadyBlockList](https://github.com/bkh555/BlueBlockerJsonReadyBlockList). PLEASE CHECK IT OUT!**
 
 The algorithm I made can be downloaded and used: 
 ```shell
