@@ -79,7 +79,6 @@ void write_file(vector<basic_data> * list){
         exit(1);
     }
 
-//adicionar algo que crie outra lista caso a anterior existra
 
     /* This structure is needed for every single profile :
         {
